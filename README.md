@@ -1,5 +1,5 @@
 ![qrcode_colab research google com](https://user-images.githubusercontent.com/118001105/236153636-0c48aed7-0aae-4297-a06c-016a6dcbc581.png)
-#Customer spending behavior
+
  
 
 
